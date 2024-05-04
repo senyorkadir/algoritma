@@ -1,0 +1,2 @@
+# algoritma
+algoritma için örnekler
